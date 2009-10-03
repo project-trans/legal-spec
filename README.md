@@ -7,6 +7,7 @@
 - [2007-08-23][]: 广电总局发通知禁止播出群众参与的整容变性节目
 - [2008-10-23][]: 公治〔2008〕478 号 公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复
 - [2009-06-15][]: 变性手术技术管理规范（征求意见稿）
+- [2009-10-03][]: 关于印发《重性精神疾病管理治疗工作规范》的通知
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -15,3 +16,4 @@
 [2007-08-23]: https://github.com/mtf-wiki/legal-spec/commit/2007-08-23
 [2008-10-23]: https://github.com/mtf-wiki/legal-spec/commit/2008-10-23
 [2009-06-15]: https://github.com/mtf-wiki/legal-spec/commit/2009-06-15
+[2009-10-03]: https://github.com/mtf-wiki/legal-spec/commit/2009-10-03
