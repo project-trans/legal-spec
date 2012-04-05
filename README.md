@@ -11,6 +11,7 @@
 - [2009-11-13][]: 变性手术技术管理规范（试行）
 - [2011-10-29][]: 中华人民共和国精神卫生法（草案）
 - [2011-10-30][]: 卫生部办公厅关于印发《疾病分类与代码（修订版）》的通知
+- [2012-04-05][]: 关于印发《重性精神疾病管理治疗工作规范（2012 年版）》的通知
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -23,3 +24,4 @@
 [2009-11-13]: https://github.com/mtf-wiki/legal-spec/commit/2009-11-13
 [2011-10-29]: https://github.com/mtf-wiki/legal-spec/commit/2011-10-29
 [2011-10-30]: https://github.com/mtf-wiki/legal-spec/commit/2011-10-30
+[2012-04-05]: https://github.com/mtf-wiki/legal-spec/commit/2012-04-05
