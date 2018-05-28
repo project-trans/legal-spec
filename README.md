@@ -16,6 +16,7 @@
 - [2016-10-13][]: 国家《GB/T 14396-2016 疾病分类与代码》标准正式发布
 - [2017-02-17][]: 性别重置技术管理规范（2017 年版）
 - [2018-04-27][]: 中华人民共和国精神卫生法（修改）
+- [2018-05-28][]: 关于印发《严重精神障碍管理治疗工作规范（2018 年版）》的通知
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -33,3 +34,4 @@
 [2016-10-13]: https://github.com/mtf-wiki/legal-spec/commit/2016-10-13
 [2017-02-17]: https://github.com/mtf-wiki/legal-spec/commit/2017-02-17
 [2018-04-27]: https://github.com/mtf-wiki/legal-spec/commit/2018-04-27
+[2018-05-28]: https://github.com/mtf-wiki/legal-spec/commit/2018-05-28
