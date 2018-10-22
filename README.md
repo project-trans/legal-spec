@@ -17,6 +17,7 @@
 - [2017-02-17][]: 性别重置技术管理规范（2017 年版）
 - [2018-04-27][]: 中华人民共和国精神卫生法（修改）
 - [2018-05-28][]: 关于印发《严重精神障碍管理治疗工作规范（2018 年版）》的通知
+- [2018-10-22][]: 性别发育异常中国专家诊疗共识收稿
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -35,3 +36,4 @@
 [2017-02-17]: https://github.com/mtf-wiki/legal-spec/commit/2017-02-17
 [2018-04-27]: https://github.com/mtf-wiki/legal-spec/commit/2018-04-27
 [2018-05-28]: https://github.com/mtf-wiki/legal-spec/commit/2018-05-28
+[2018-10-22]: https://github.com/mtf-wiki/legal-spec/commit/2018-10-22
