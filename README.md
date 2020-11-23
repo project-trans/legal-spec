@@ -19,6 +19,7 @@
 - [2018-05-28][]: 关于印发《严重精神障碍管理治疗工作规范（2018 年版）》的通知
 - [2018-10-22][]: 性别发育异常中国专家诊疗共识收稿
 - [2018-12-14][]: 关于印发 ICD-11 中文版的通知
+- [2020-11-23][]: 精神障碍诊疗规范（2020 年版）
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -39,3 +40,4 @@
 [2018-05-28]: https://github.com/mtf-wiki/legal-spec/commit/2018-05-28
 [2018-10-22]: https://github.com/mtf-wiki/legal-spec/commit/2018-10-22
 [2018-12-14]: https://github.com/mtf-wiki/legal-spec/commit/2018-12-14
+[2020-11-23]: https://github.com/mtf-wiki/legal-spec/commit/2020-11-23
