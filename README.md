@@ -20,6 +20,7 @@
 - [2018-10-22][]: 性别发育异常中国专家诊疗共识收稿
 - [2018-12-14][]: 关于印发 ICD-11 中文版的通知
 - [2020-11-23][]: 精神障碍诊疗规范（2020 年版）
+- [2020-12-08][]: 《关于防止男性青少年女性化的提案》答复的函
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -41,3 +42,4 @@
 [2018-10-22]: https://github.com/mtf-wiki/legal-spec/commit/2018-10-22
 [2018-12-14]: https://github.com/mtf-wiki/legal-spec/commit/2018-12-14
 [2020-11-23]: https://github.com/mtf-wiki/legal-spec/commit/2020-11-23
+[2020-12-08]: https://github.com/mtf-wiki/legal-spec/commit/2020-12-08
