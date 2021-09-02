@@ -22,6 +22,7 @@
 - [2020-11-23][]: 精神障碍诊疗规范（2020 年版）
 - [2020-12-08][]: 《关于防止男性青少年女性化的提案》答复的函
 - [2021-07-24][]: 公安部关于印发《户口居民身份证管理工作规范（试行）》的通知
+- [2021-09-02][]: 国家广播电视总局办公厅关于进一步加强文艺节目及其人员管理的通知
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -45,3 +46,4 @@
 [2020-11-23]: https://github.com/mtf-wiki/legal-spec/commit/2020-11-23
 [2020-12-08]: https://github.com/mtf-wiki/legal-spec/commit/2020-12-08
 [2021-07-24]: https://github.com/mtf-wiki/legal-spec/commit/2021-07-24
+[2021-09-02]: https://github.com/mtf-wiki/legal-spec/commit/2021-09-02
