@@ -25,6 +25,7 @@
 - [2021-09-02][]: 国家广播电视总局办公厅关于进一步加强文艺节目及其人员管理的通知
 - [2022-04-20][]: 性别重置技术临床应用管理规范（2022 年版）
 - [2022-06-27][]: 中国易性症多学科诊疗专家共识收稿
+- [2022-07-11][]: 《GB/T 41575-2022 未成年人互联网不健康内容分类与代码》
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -51,3 +52,4 @@
 [2021-09-02]: https://github.com/mtf-wiki/legal-spec/commit/2021-09-02
 [2022-04-20]: https://github.com/mtf-wiki/legal-spec/commit/2022-04-20
 [2022-06-27]: https://github.com/mtf-wiki/legal-spec/commit/2022-06-27
+[2022-07-11]: https://github.com/mtf-wiki/legal-spec/commit/2022-07-11
