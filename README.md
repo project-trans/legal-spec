@@ -26,6 +26,7 @@
 - [2022-04-20][]: 性别重置技术临床应用管理规范（2022 年版）
 - [2022-06-27][]: 中国易性症多学科诊疗专家共识收稿
 - [2022-07-11][]: 《GB/T 41575-2022 未成年人互联网不健康内容分类与代码》
+- [2022-11-02][]: 药品网络销售禁止清单（征求意见稿）（第一版）
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -53,3 +54,4 @@
 [2022-04-20]: https://github.com/mtf-wiki/legal-spec/commit/2022-04-20
 [2022-06-27]: https://github.com/mtf-wiki/legal-spec/commit/2022-06-27
 [2022-07-11]: https://github.com/mtf-wiki/legal-spec/commit/2022-07-11
+[2022-11-02]: https://github.com/mtf-wiki/legal-spec/commit/2022-11-02
